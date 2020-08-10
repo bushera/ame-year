@@ -5,6 +5,12 @@ $(function(){
 
 		$(".carousel").carousel();
 		
+		$("#top").click(function(){
+			parent.history.back();
+			return false;
+		});
+  
+		
 		$("#year-2018").click(function(){
 			$("#slide2").css("display", "none");
 			$("#slide3").css("display", "none");

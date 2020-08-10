@@ -115,9 +115,9 @@ main{display:none;}
 	 
 	 #live-exhibi{display:none;}
 	 
-	 #slide1{position:absolute; width:99.30%; left:.35%;  background:transparent; display:block; border-radius:0px 0px 5px 5px; overflow:hidden;}
-	 #slide2{position:absolute; width:99.30%; left:.35%; background:transparent; display:none; border-radius:0px 0px 5px 5px; overflow:hidden;}
-	 #slide3{position:absolute; width:99.30%; left:.35%; background:transparent; display:none; border-radius:0px 0px 5px 5px; overflow:hidden;}
+	 #slide1{position:absolute; width:98.50%; left:.75%;  background:transparent; display:block; border-radius:0px 0px 5px 5px; overflow:hidden;}
+	 #slide2{position:absolute; width:98.50%; left:.75%; background:transparent; display:none; border-radius:0px 0px 5px 5px; overflow:hidden;}
+	 #slide3{position:absolute; width:98.50%; left:.75%; background:transparent; display:none; border-radius:0px 0px 5px 5px; overflow:hidden;}
 	 #slide1a{display:none;}
 	 #slide2a{display:none;}
 	 #slide3a{display:none;}
@@ -147,8 +147,7 @@ main{display:none;}
 	 #h61{top:95%; color:teal; position:absolute; font-size:12px; left:26%; text-align:center; }
 	 #h62{top:95%; color:black; position:absolute; font-size:12px; right:26%; text-align:center; }
   
-	 #top-scroll{position:absolute; top:7%;  background:white; opacity:1; width:10px; height:22px; border-radius:0px 8px 8px 0px;}
-	 #top{position:absolute; top:-3%; right:10%;}
-	 
+	 #top-scroll{position:absolute; top:7%;  background:white; opacity:1; width:10px; height:32px; border-radius:0px 8px 8px 0px;}
+	 #top{position:absolute; top:15%; left:-28%; font-size:18px; font-weight:bold;}
 	
 }
