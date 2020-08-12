@@ -144,8 +144,8 @@ main{display:none;}
 	 #email-input{position:absolute; width:42%; left:50%; top:52%; color:teal }
      #location-input{position:absolute; width:42%; left:50%; top:65%; color:teal; text-transform:capitalize; }
 	 
-	 #h61{top:95%; color:teal; position:absolute; font-size:12px; left:26%; text-align:center; }
-	 #h62{top:95%; color:black; position:absolute; font-size:12px; right:26%; text-align:center; }
+	 #h61{top:95%; color:teal; position:absolute; font-size:12px; left:27%; text-align:center; }
+	 #h62{top:95%; color:black; position:absolute; font-size:12px; right:27%; text-align:center; }
   
 	 #top-scroll{position:absolute; top:7%;  background:white; opacity:1; width:10px; height:32px; border-radius:0px 8px 8px 0px;}
 	 #top{position:absolute; top:15%; left:-28%; font-size:18px; font-weight:bold;}
