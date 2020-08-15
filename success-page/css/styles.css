@@ -19,8 +19,8 @@ h2{position:absolute; text-align:center; right:4%; color:rgba(0,0,0,.3); font-we
 
 #prev{position:absolute; top:28%; right:11%; opacity:1; font-size:9px; z-index:999;}
 
-#h61{top:95%; color:teal; position:absolute; font-size:12px; left:44%; text-align:center; }
-#h62{top:95%; color:black; position:absolute; font-size:12px; right:44%; text-align:center; }
+#h61{top:95%; color:rgba(0,0,0,.5); position:absolute; font-size:12px; left:44%; text-align:center; }
+#h62{top:95%; color:rgba(0,0,0,.5); position:absolute; font-size:12px; right:44%; text-align:center; }
  
 
 
@@ -49,8 +49,8 @@ h2{position:absolute; text-align:center; right:4%; color:rgba(0,0,0,.3); font-we
 #prev{position:absolute; top:28%; right:11%; opacity:1; font-size:9px; z-index:999;}
 
 
-#h61{top:95%; color:teal; position:absolute; font-size:12px; left:26%; text-align:center; }
-#h62{top:95%; color:black; position:absolute; font-size:12px; right:26%; text-align:center; }
+#h61{top:95%; color:rgba(0,0,0,.5); position:absolute; font-size:12px; left:28.5%; text-align:center; }
+#h62{top:95%; color:rgba(0,0,0,.5); position:absolute; font-size:12px; right:28.5%; text-align:center; }
   
 
 }
