@@ -115,9 +115,9 @@ main{display:none;}
 	 
 	 #live-exhibi{display:none;}
 	 
-	 #slide1{position:absolute; width:98.50%; left:.75%;  background:transparent; display:block; border-radius:0px 0px 5px 5px; overflow:hidden;}
-	 #slide2{position:absolute; width:98.50%; left:.75%; background:transparent; display:none; border-radius:0px 0px 5px 5px; overflow:hidden;}
-	 #slide3{position:absolute; width:98.50%; left:.75%; background:transparent; display:none; border-radius:0px 0px 5px 5px; overflow:hidden;}
+	 #slide1{position:absolute; width:98.50%; left:.75%;  background:transparent; display:block; border-radius:0px 0px 0px 0px; overflow:hidden;}
+	 #slide2{position:absolute; width:98.50%; left:.75%; background:transparent; display:none; border-radius:0px 0px 0px 0px; overflow:hidden;}
+	 #slide3{position:absolute; width:98.50%; left:.75%; background:transparent; display:none; border-radius:0px 0px 0px 0px; overflow:hidden;}
 	 #slide1a{display:none;}
 	 #slide2a{display:none;}
 	 #slide3a{display:none;}
