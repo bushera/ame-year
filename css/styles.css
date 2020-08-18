@@ -110,7 +110,7 @@ main{display:none;}
 	}
 
 	 #carousel-cover{display:block; position:absolute; top:70%; height:23%; width:98.5%; left:.75%; background:url("/images/stripes1.png"); opacity:1; box-shadow:0px .8px 18px 2px rgba(0,0,0,.5); border-radius:0px 0px 15px 15px;}
-	 #year-carousel{position:absolute; bottom:11%; left:30%; height:50%; width:40%; background:transparent;}
+	 #year-carousel{position:absolute; bottom:8%; left:30%; height:50%; width:40%; background:transparent;}
 	 #slide-body{position:absolute; top:0%; height:100%; width:100%; background:transparent;}
 	 
 	 #live-exhibi{display:none;}
