@@ -83,9 +83,9 @@ main{display:none;}
 	 #modal-form>button{position:absolute; top:90%; right:8%; border-radius:25px; background:#424242; border:2px solid cyan; color:white; height:25px; font-size:15px;}
 	 #modal-img{position:absolute; bottom:10%; width:30%; height:75%; filter:grayscale(10); border:2.5px solid grey; opacity:.8;}
 	 #modal-dialog{height:90%; width:90%; border-radius:25px 0px 25px 25px; background:#424242; }
-	 #type-input{position:absolute; width:42%; left:50%; top:40%; color:teal }
-	 #email-input{position:absolute; width:42%; left:50%; top:52%; color:teal }
-     #location-input{position:absolute; width:42%; left:50%; top:65%; color:teal; text-transform:capitalize; }
+	 #type-input{position:absolute; width:42%; left:50%; top:40%; color:white }
+	 #email-input{position:absolute; width:42%; left:50%; top:52%; color:white }
+     #location-input{position:absolute; width:42%; left:50%; top:65%; color:white; text-transform:capitalize; }
 	 
 	 #h61{top:95%; color:rgba(0,0,0,.5); position:absolute; font-size:12px; left:44%; text-align:center; }
 	 #h62{top:95%; color:rgba(0,0,0,.5); position:absolute; font-size:12px; right:44%; text-align:center; }
@@ -118,21 +118,21 @@ main{display:none;}
 	 #year-carousel{position:absolute; bottom:5%; left:30%; height:50%; width:40%; background:transparent; display:none;}
 	 #slide-body{position:absolute; top:0%; height:100%; width:100%; background:transparent;}
 	 
-	#year-selecti{position:absolute; top:85.5%; left:7%; width:9%; height:3%;  background:white; color:white; font-size:9px; font-weight:bold; z-index:999; display:block; border-radius:5%;} 
-	#year-dropi{position:absolute; bottom:17%; height:0%; width:13%; background:rgba(0,0,0,.2); left:3.5%; display:none; z-index:999;}
-	#year-collapsei{position:absolute; top:85.8%; font-size:12px; text-decoration:none; left:3.7%; z-index:999; display:block}
-	#year-collapsebi{position:absolute; top:85.8%; font-size:12px; text-decoration:none; left:3.7%; z-index:999; display:none;}
+	#year-selecti{position:absolute; top:85.5%; left:37.5%; width:25%; height:3%; background:teal; color:white; font-size:9px; font-weight:bold; z-index:999; display:block; border-radius:5%;} 
+	#year-dropi{position:absolute; bottom:17%; height:0%; width:25%; background:rgba(0,0,0,.2); left:38%; display:none; z-index:999;}
+	#year-collapsei{position:absolute; top:85.7%; font-size:12px; text-decoration:none; left:59.2%; z-index:999; display:block}
+	#year-collapsebi{position:absolute; top:85.7%; font-size:12px; text-decoration:none; left:59.2%; z-index:999; display:none;}
 	
 	
-	#year-2018ai{position:absolute; color:white; left:25%; top:5%; font-size:12px; font-weight:bold; text-decoration:none;}
-	#year-2019ai{position:absolute; color:white; left:25%; top:35%; font-size:12px; font-weight:bold; text-decoration:none;}
-	#year-2020ai{position:absolute; color:white; left:25%; top:65%; font-size:12px; font-weight:bold; text-decoration:none;}
+	#year-2018ai{position:absolute; color:white; left:43%; top:5%; font-size:12px; font-weight:bold; text-decoration:none;}
+	#year-2019ai{position:absolute; color:white; left:43%; top:35%; font-size:12px; font-weight:bold; text-decoration:none;}
+	#year-2020ai{position:absolute; color:white; left:43%; top:65%; font-size:12px; font-weight:bold; text-decoration:none;}
 	
 	
-	#year1i{position:absolute; top:5%; left:20%; color:rgba(0,0,0,.8); font-size:12px; font-weight:bold; text-align:center; text-decoration:none; display:block;} 
-	#year2i{position:absolute; top:5%; left:20%; color:rgba(0,0,0,.8); font-size:12px; font-weight:bold; text-align:center; text-decoration:none; display:none;} 
-	#year3i{position:absolute; top:5%; left:20%; color:rgba(0,0,0,.8); font-size:12px; font-weight:bold; text-align:center; text-decoration:none; display:none;} 
-	 
+	#year1i{position:relative; top:5%; left:%; color:white; font-size:12px; font-weight:bold; text-align:center; text-decoration:none; letter-spacing:15px; display:block;} 
+	#year2i{position:relative; top:5%; left:%; color:white; font-size:12px; font-weight:bold; text-align:center; text-decoration:none;  letter-spacing:15px; display:none;} 
+	#year3i{position:relative; top:5%; left:%; color:white; font-size:12px; font-weight:bold; text-align:center; text-decoration:none;  letter-spacing:15px; display:none;} 
+	
 	 #live-exhibi{display:none;}
 	 
 	 #slide1{position:absolute; width:98.50%; left:.75%;  background:transparent; display:block; border-radius:0px 0px 0px 0px; overflow:hidden;}
@@ -160,9 +160,9 @@ main{display:none;}
 	 #modal-form>button{position:absolute; top:90%; right:8%; border-radius:25px; background:#424242; border:2px solid cyan; color:white; height:25px; font-size:15px;}
 	 #modal-img{position:absolute; bottom:25%; left:5%; filter:grayscale(10);  border:1.5px solid grey; opacity:.8;}
 	 #modal-dialog{height:90%; width:90%; border-radius:25px 0px 25px 25px; background:#424242; }
-	 #type-input{position:absolute; width:42%; left:50%; top:40%; color:teal }
-	 #email-input{position:absolute; width:42%; left:50%; top:52%; color:teal }
-     #location-input{position:absolute; width:42%; left:50%; top:65%; color:teal; text-transform:capitalize; }
+	 #type-input{position:absolute; width:42%; left:50%; top:40%; color:white }
+	 #email-input{position:absolute; width:42%; left:50%; top:52%; color:white }
+     #location-input{position:absolute; width:42%; left:50%; top:65%; color:white; text-transform:capitalize; }
 	 
 	 #h61{top:93%; color:rgba(0,0,0,.5); position:absolute; font-size:12px; left:28.5%; text-align:center; }
 	 #h62{top:93%; color:rgba(0,0,0,.5); position:absolute; font-size:12px; right:28.5%; text-align:center; }
