@@ -80,7 +80,7 @@ main{display:none;}
 	 #modal-form>h2{font-size:16px; font-weight:bold; position:absolute; top:7%; letter-spacing:5px; text-align:center;}
 	 #modal-form>h3{font-size:12px;  position:absolute; right:10%; top:20%;} 
 	 #modal-form>h4{font-size:10px;  position:absolute; right:10.5%; top:26%;}
-	 #modal-form>button{position:absolute; top:90%; right:8%; border-radius:25px; background:#424242; border:2px solid cyan; color:white; height:25px; font-size:15px;}
+	 #modal-form>button{position:absolute; top:90%; right:8%; border-radius:25px; background:#424242; border:2px solid #00838f; color:white; height:25px; font-size:15px;}
 	 #modal-img{position:absolute; bottom:10%; width:30%; height:75%; filter:grayscale(10); border:2.5px solid grey; opacity:.8;}
 	 #modal-dialog{height:90%; width:90%; border-radius:25px 0px 25px 25px; background:#424242; }
 	 #type-input{position:absolute; width:42%; left:50%; top:40%; color:white }
@@ -118,7 +118,7 @@ main{display:none;}
 	 #year-carousel{position:absolute; bottom:5%; left:30%; height:50%; width:40%; background:transparent; display:none;}
 	 #slide-body{position:absolute; top:0%; height:100%; width:100%; background:transparent;}
 	 
-	#year-selecti{position:absolute; top:85.5%; left:37.5%; width:25%; height:3%; background:teal; color:white; font-size:9px; font-weight:bold; z-index:999; display:block; border-radius:5%;} 
+	#year-selecti{position:absolute; top:85.5%; left:37.5%; width:25%; height:3%; background:#00838f; color:white; font-size:9px; font-weight:bold; z-index:999; display:block; border-radius:5%;} 
 	#year-dropi{position:absolute; bottom:17%; height:0%; width:25%; background:rgba(0,0,0,.2); left:38%; display:none; z-index:999;}
 	#year-collapsei{position:absolute; top:85.7%; font-size:12px; text-decoration:none; left:59.2%; z-index:999; display:block}
 	#year-collapsebi{position:absolute; top:85.7%; font-size:12px; text-decoration:none; left:59.2%; z-index:999; display:none;}
@@ -157,7 +157,7 @@ main{display:none;}
 	 #modal-form>h2{font-size:16px; font-weight:bold; position:absolute; top:7%; letter-spacing:5px; text-align:center;}
 	 #modal-form>h3{font-size:12px;  position:absolute; right:10%; top:20%;} 
 	 #modal-form>h4{font-size:10px;  position:absolute; right:10.5%; top:26%;}
-	 #modal-form>button{position:absolute; top:90%; right:8%; border-radius:25px; background:#424242; border:2px solid cyan; color:white; height:25px; font-size:15px;}
+	 #modal-form>button{position:absolute; top:90%; right:8%; border-radius:25px; background:#424242; border:2px solid #00838f; color:white; height:25px; font-size:15px;}
 	 #modal-img{position:absolute; bottom:25%; left:5%; filter:grayscale(10);  border:1.5px solid grey; opacity:.8;}
 	 #modal-dialog{height:90%; width:90%; border-radius:25px 0px 25px 25px; background:#424242; }
 	 #type-input{position:absolute; width:42%; left:50%; top:40%; color:white }
